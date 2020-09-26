@@ -1,7 +1,7 @@
 <package>
 	<id>com.osama.pubg</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<name>Osama Pubg HackMod</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -38,7 +38,7 @@
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<url>https://www.arabfono.com</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
